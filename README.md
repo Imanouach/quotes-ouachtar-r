@@ -11,6 +11,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: LECRY Blandine groupe R
 
 ## Fork urls
-- `contributor-1`: [quotes-parguet-r](https://github.com/annelaureprgt/quotes-parguet-r/forks)
+- `contributor-1`: [quotes-parguet-r](https://github.com/annelaureprgt/quotes-parguet-r.git)
 - `contributor-2`: [quotes-elise-r](https://github.com/eliseluc/quotes-lucas-r.git)
 - `contributor-3`: [quotes-lecry-r](https://github.com/BlandineLecry/quotes-lecry-r.git)
